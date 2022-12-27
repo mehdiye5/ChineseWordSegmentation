@@ -1,4 +1,4 @@
-# ChineseWordSegmentation
+# Chinese Word Segmentation
 Word segmentation is the task of restoring missing word boundaries. This project is on Chinese word segmentation, a language in which word boundaries are not usually provided. We will be using training data collected from Chinese sentences that have been segmented by human experts. We will run the word segmentation program that you will write for this homework on test data that will be automatically evaluated against a reference segmentation.
 
 ## Baseline
